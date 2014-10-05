@@ -1,0 +1,4 @@
+data/.hgignore.i
+data/settings.xml.enc.i
+data/pom.xml.i
+data/.travis.yml.i
